@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(46, 46, 46);
+}
+h1 {
+    font-size: 35px;
+    text-decoration-line: underline;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+#wishes{
+    font-size: 32px;
+    color: darkred;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.link {
+    color: midnightblue;
+}
+
+ul li {
+    list-style-type: square;
+}
+
+ol li {
+    list-style-type: lower-alpha;
+}
